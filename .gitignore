@@ -1,0 +1,7 @@
+node_modules/
+server/.env
+server/orders.jsonl
+BakersGalleryApp/
+brew-and-bloom/
+*.log
+.DS_Store
